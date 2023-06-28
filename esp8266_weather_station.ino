@@ -19,8 +19,8 @@
 
 
 char auth[] = BLYNK_AUTH_TOKEN;
-const char* ssid = "JohnGrammaticus";
-const char* password = "3dxnurbs";
+const char* ssid = "ssid_name";
+const char* password = "password";
 
 const char* ntpServerName = "pool.ntp.org";
 const int timeZone = 2;
