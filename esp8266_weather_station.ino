@@ -10,7 +10,7 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL1oK5tYaK"
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
-#define BLYNK_AUTH_TOKEN "Z47wBFmHbT3i9Q496Uay2JYgKl0Ku7LJ"
+#define BLYNK_AUTH_TOKEN "******"
 #define BLYNK_PRINT Serial
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
